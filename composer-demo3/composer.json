@@ -1,0 +1,15 @@
+{
+    "name": "admin/composer-demo3",
+    "autoload": {
+        "psr-4": {
+            "ComposerDemo3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vijayarajsezeeinfo",
+            "email": "vijayaraj.s.ezeeinfo@gmail.com"
+        }
+    ],
+    "require": {}
+}
