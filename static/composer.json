@@ -1,0 +1,15 @@
+{
+    "name": "admin/static",
+    "autoload": {
+        "psr-4": {
+            "static\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vijayarajsezeeinfo",
+            "email": "vijayaraj.s.ezeeinfo@gmail.com"
+        }
+    ],
+    "require": {}
+}
