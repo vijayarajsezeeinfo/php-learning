@@ -1,0 +1,15 @@
+{
+    "name": "admin/magicmethods",
+    "autoload": {
+        "psr-4": {
+            "MagicMethods\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vijayarajsezeeinfo",
+            "email": "vijayaraj.s.ezeeinfo@gmail.com"
+        }
+    ],
+    "require": {}
+}
